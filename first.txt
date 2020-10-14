@@ -1,3 +1,6 @@
 hello world
 new work
 edit online in github and assume that done by another person 
+
+hello world
+this is new changes to learn smart git
